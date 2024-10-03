@@ -207,6 +207,9 @@
       <a name="label" val="PC"/>
       <a name="width" val="16"/>
     </comp>
+    <comp lib="8" loc="(241,996)" name="Text">
+      <a name="text" val="aaaaaaaaaa"/>
+    </comp>
     <comp loc="(1450,540)" name="ALU"/>
     <comp loc="(910,270)" name="Unidad_de_Control"/>
     <comp loc="(910,540)" name="Banco_de_registros"/>
